@@ -1,0 +1,19 @@
+{
+  "name": "typescript-quiz-game",
+  "version": "1.0.0",
+  "description": "A command-line multiple-choice quiz built with TypeScript and Node.js",
+  "main": "dist/quiz.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/quiz.ts",
+    "dev": "ts-node src/quiz.ts"
+  },
+  "keywords": ["typescript", "quiz", "cli", "node"],
+  "author": "Pastor Munashe Zimondi",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
