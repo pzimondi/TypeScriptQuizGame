@@ -8,7 +8,7 @@ The software is a command-line multiple-choice quiz game written entirely in Typ
 
 I chose this project because every required language feature maps onto it naturally. Classes model the quiz data. A typed array stores the questions. Async/await handles the user input without blocking. Recursion walks through the results to calculate the score. A custom exception class catches anything unexpected. The whole thing is small enough to explain on camera in five minutes but rich enough to touch every concept that matters.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/BT9AuH3ClFg)
 
 ## Development Environment
 
